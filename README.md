@@ -6,7 +6,7 @@
   - [Configuring Active Directory within Azure VMs](https://github.com/zacsmothers/configure-ad)
   - [Inspecting Network Protocols and Network Security Groups](https://github.com/zacsmothers/azure-network-protocols)
 
-- <b>osTicket (Help Desk Ticketing System)</b>
+- <b>OsTicket (Help Desk Ticketing System)</b>
   - [osTicket: Installation](https://github.com/zacsmothers/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/zacsmothers/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/zacsmothers/ticket-lifecycle)
