@@ -7,9 +7,9 @@
   - [Inspecting Network Protocols and Network Security Groups](https://github.com/zacsmothers/azure-network-protocols)
 
 - <b>OsTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Installation](https://github.com/zacsmothers/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/zacsmothers/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/zacsmothers/ticket-lifecycle)
+  - [OsTicket: Installation](https://github.com/zacsmothers/osticket-prereqs)
+  - [OsTicket: Post-Installation Configuration](https://github.com/zacsmothers/post-install-config)
+  - [OsTicket: Ticket Lifecycle Examples](https://github.com/zacsmothers/ticket-lifecycle)
 
 <h2>Connect with me:</h2>
 
