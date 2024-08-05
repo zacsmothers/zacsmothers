@@ -1,4 +1,4 @@
-<h1>Hi, I'm Zac, an <a href="https://linkedin.com/in/zac-smothers-90a701315/">IT Student & Professional</a></h1>
+<h1>Hi, I'm Zac, a <a href="https://linkedin.com/in/zac-smothers-90a701315/">Tech Student & Professional</a></h1>
 
 <h2>Information Technology Projects:</h2>
 
